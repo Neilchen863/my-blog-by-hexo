@@ -11,5 +11,5 @@ According to the data provided by relevant bloggers, it takes 10 minutes to gene
 while Hugo only takes 10 seconds. From my personal experience, Hugo has indeed greatly accelerated the speed of web page generation. 
 It usually takes about 4 seconds to add a blog post and then generate and render it, while Hugo basically completes it within 1 second.
 
-Despite, I would still greatly recommend those who would like to create their first blog or website to use Hexo, because it has a better community support.
+Despite, I would still highly recommend those who would like to create their first blog or website to use Hexo, because it has a better community support.
 Even those who know nothing about coding can quickly and easily build a pretty and multifunctional site by simply following the instructions.
