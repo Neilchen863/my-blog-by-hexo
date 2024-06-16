@@ -1,4 +1,4 @@
-# This is my old personal blog.
+# This is my old personal blog (no longer in usage).
 
 It is built by Hexo framework, Butterfly theme, which is quite user-friendly and suitable for novices to create their blogs.
 However, as I decided to post a lot on my blog, about tech and about life, I realized that Hexo cannot meet my demands, since it is 
